@@ -49,4 +49,9 @@ Memformat Teks menggunakan format-format teks yang ada seperti ``` <b>, <strong>
     Web</b> di Prodi <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama
     yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
     tag-tag dasar HTML.</p>
+```
+![3](https://user-images.githubusercontent.com/56380765/112841555-d23def80-90ca-11eb-8958-59c846c9ac32.png)
+# Langkah 5
+Menampilkan gambar dengan cara mengambil gambar lalu sisipkan gambar dengan file HTML yang sudah di buat
+
     
