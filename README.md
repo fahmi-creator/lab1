@@ -92,6 +92,7 @@ membuat halaman ke 2 yang akan terhubung dengan halaman 1 dengan cara menggunaka
 </body>
 </html>
 ```
+![7](https://user-images.githubusercontent.com/56380765/112844851-61003b80-90ce-11eb-9fd2-42aaba89eaf4.png)
 
 
     
