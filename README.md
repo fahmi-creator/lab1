@@ -53,5 +53,14 @@ Memformat Teks menggunakan format-format teks yang ada seperti ``` <b>, <strong>
 ![3](https://user-images.githubusercontent.com/56380765/112841555-d23def80-90ca-11eb-8958-59c846c9ac32.png)
 # Langkah 5
 Menampilkan gambar dengan cara mengambil gambar lalu sisipkan gambar dengan file HTML yang sudah di buat
+![4](https://user-images.githubusercontent.com/56380765/112842512-d1f22400-90cb-11eb-8b61-4fb3fbe90519.png)
+```
+<!-- sub judul paragraf -->
+<h3>Menambahkan Gambar</h3>
+<!-- menambahkan gambar pada dokumen -->
+<img src="logo.png" width="200" title="Logo Univeritas Pelita Bangsa">
+</body>
+</html>
+```
 
     
