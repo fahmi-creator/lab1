@@ -62,5 +62,18 @@ Menampilkan gambar dengan cara mengambil gambar lalu sisipkan gambar dengan file
 </body>
 </html>
 ```
+![5](https://user-images.githubusercontent.com/56380765/112842912-3f05b980-90cc-11eb-9074-83a2d9c18c0d.png)
+# Langkah 6
+Menambahkan Hyperlink. Tambahkan hyperlink pada dokumen sebelum heading 1.
+```
+ <!-- menambahkan link navigasi -->
+<nav>
+    <a href="lab1_tag_dasar.html">Dasar HTML</a>
+    <a href="lab1_halaman2.html">Halaman 2</a>
+    <a href="http://www.google.com">Halaman Web Eksternal Google</a>
+    </nav>
+    <hr>
+```
+
 
     
