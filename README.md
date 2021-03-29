@@ -31,6 +31,16 @@ Universitas Pelita Bangsa
 <p align="right">Ini merupakan sebuah paragraf yang terdiri dari beberapa
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
     dengan menggunakan tag dasar html.</p>
-    ```
+ ```
+![1](https://user-images.githubusercontent.com/56380765/112838490-50989280-90c7-11eb-8aa3-93f50eac58ca.png)
+# Langkah 3
+# Menambahkan judul menggunakan Tag Heading (h1, h2, h3, h4, h5, h6). Semakin besar angka Tag Heading, Semakin kecil ukuran Headingnya.
+```
+<!-- judul paragraf pertama -->
+<h1>Belajar Dasar HTML</h1>
+<!-- judul paragraf kedua -->
+<h2>Paragraf pada HTML</h2>
+```
+
     
     
