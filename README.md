@@ -16,17 +16,21 @@ Universitas Pelita Bangsa
 </head>
 <body>
 ```
+![1](https://user-images.githubusercontent.com/56380765/112837650-58a40280-90c6-11eb-9914-5cfc8d4470a9.png)
 
 # Langkah 2
 # Membuat 2 paragraf dan atur atribut paragraf
 ```
- <!-- Ini adalah paragraf pertama -->
-<p align="left">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman
-    Web</b> di Prodi <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama
+<!-- Ini adalah paragraf pertama -->
+<p align="center">Kami sedang belajar \HTML dasar, pada matakuliah Pemrograman
+    Web di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama
     yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
     tag-tag dasar HTML.</p>
 
-     <!-- Ini adalah paragraf kedua -->
-<p align="left">Ini merupakan sebuah paragraf yang terdiri dari beberapa
+<!-- Ini adalah paragraf kedua -->
+<p align="right">Ini merupakan sebuah paragraf yang terdiri dari beberapa
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
     dengan menggunakan tag dasar html.</p>
+    ```
+    
+    
