@@ -7,7 +7,7 @@ TI.19.A2
 Universitas Pelita Bangsa
 ```
 # Langkah 1
-# Buka VS code dan buat file HTML baru, dan setelah itu buat struktur HTML
+Buka VS code dan buat file HTML baru, dan setelah itu buat struktur HTML
 ```
 <!DOCTYPE html>
 <html>
@@ -19,7 +19,7 @@ Universitas Pelita Bangsa
 ![1](https://user-images.githubusercontent.com/56380765/112837650-58a40280-90c6-11eb-9914-5cfc8d4470a9.png)
 
 # Langkah 2
-# Membuat 2 paragraf dan atur atribut paragraf
+Membuat 2 paragraf dan atur atribut paragraf
 ```
 <!-- Ini adalah paragraf pertama -->
 <p align="center">Kami sedang belajar \HTML dasar, pada matakuliah Pemrograman
@@ -34,13 +34,19 @@ Universitas Pelita Bangsa
  ```
 ![1](https://user-images.githubusercontent.com/56380765/112838490-50989280-90c7-11eb-8aa3-93f50eac58ca.png)
 # Langkah 3
-# Menambahkan judul menggunakan Tag Heading (h1, h2, h3, h4, h5, h6). Semakin besar angka Tag Heading, Semakin kecil ukuran Headingnya.
+Menambahkan judul menggunakan Tag Heading (h1, h2, h3, h4, h5, h6). Semakin besar angka Tag Heading, Semakin kecil ukuran Headingnya.
 ```
 <!-- judul paragraf pertama -->
 <h1>Belajar Dasar HTML</h1>
 <!-- judul paragraf kedua -->
 <h2>Paragraf pada HTML</h2>
 ```
-
-    
+![2](https://user-images.githubusercontent.com/56380765/112839584-9144db80-90c8-11eb-8479-c69b770e8fd4.png)
+# Langkah 4
+Memformat Teks menggunakan format-format teks yang ada seperti ``` <b>, <strong>, <i>, <em>, <mark>, <small>, <dell>, <ins>, <sub>, <sup>```.
+```
+<p align="left">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman
+    Web</b> di Prodi <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama
+    yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
+    tag-tag dasar HTML.</p>
     
