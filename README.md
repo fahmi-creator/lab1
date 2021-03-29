@@ -74,6 +74,24 @@ Menambahkan Hyperlink. Tambahkan hyperlink pada dokumen sebelum heading 1.
     </nav>
     <hr>
 ```
+![6](https://user-images.githubusercontent.com/56380765/112844195-a7a16600-90cd-11eb-9d1d-e8182d837f4f.png)
+# Langkah 7
+membuat halaman ke 2 yang akan terhubung dengan halaman 1 dengan cara menggunakan hyperlink
+```
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tag HTML Dasar</title>
+</head>
+<body>
+
+<h1>Halaman Ke 2</h1>
+
+<p align="justify">Ini adalah halaman kedua.</p>
+
+</body>
+</html>
+```
 
 
     
