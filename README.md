@@ -50,7 +50,8 @@ Memformat Teks menggunakan format-format teks yang ada seperti ``` <b>, <strong>
     yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
     tag-tag dasar HTML.</p>
 ```
-![3](https://user-images.githubusercontent.com/56380765/112841555-d23def80-90ca-11eb-8958-59c846c9ac32.png)
+![41](https://user-images.githubusercontent.com/56380765/112928954-b9245580-9141-11eb-8579-ee16e9045faf.png)
+
 # Langkah 5
 Menampilkan gambar dengan cara mengambil gambar lalu sisipkan gambar dengan file HTML yang sudah di buat
 ![4](https://user-images.githubusercontent.com/56380765/112842512-d1f22400-90cb-11eb-8b61-4fb3fbe90519.png)
@@ -62,7 +63,8 @@ Menampilkan gambar dengan cara mengambil gambar lalu sisipkan gambar dengan file
 </body>
 </html>
 ```
-![5](https://user-images.githubusercontent.com/56380765/112842912-3f05b980-90cc-11eb-9074-83a2d9c18c0d.png)
+![51](https://user-images.githubusercontent.com/56380765/112929031-dfe28c00-9141-11eb-9722-227ec8a18fb5.png)
+
 # Langkah 6
 Menambahkan Hyperlink. Tambahkan hyperlink pada dokumen sebelum heading 1.
 ```
