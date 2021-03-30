@@ -95,3 +95,26 @@ membuat halaman ke 2 yang akan terhubung dengan halaman 1 dengan cara menggunaka
 </html>
 ```
 ![7](https://user-images.githubusercontent.com/56380765/112844851-61003b80-90ce-11eb-9fd2-42aaba89eaf4.png)
+
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
+   error ketika terjadi kesalahan penulisan tag?
+   ```
+   ada error ketika saya ingin menulis mark penulisan nya <mark> menjadi mark> fungsi mark tidak berfungsi
+2. Apa perbedaan dari tag ```<p> dengan tag ```<br>, berikan penjelasannya!
+   ```
+   tag <p> menginstruksikan paragraf baru sedangkan tag <br> menginstruksikan baris baru
+3.  Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+    ```
+    atribut title untuk menambahkan judul pada gambar gambar, sedangkan alt muncul ketika gambar tidak dapat di tampilkan
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar
+   proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya! 
+   ```
+   agar gambar proposional tampilkan atribut 1 saja misal nya seprti width 200px, dengan menghitung lebar nya 200px
+   saja gambar secara otomatis akan propsional
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
+   _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+   ```
+   _blank :browser akan memuat dokumen yang di link ke dalam jendela yang baru
+   _self : untuk membuka link di frame itu berada
+   _top : untuk membuka link di frame paling atas
+   _parent : buka dokumen yang di tautkan dalam bingkai induk
