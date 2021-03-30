@@ -76,7 +76,7 @@ Menambahkan Hyperlink. Tambahkan hyperlink pada dokumen sebelum heading 1.
     </nav>
     <hr>
 ```
-![6](https://user-images.githubusercontent.com/56380765/112844195-a7a16600-90cd-11eb-9d1d-e8182d837f4f.png)
+![61](https://user-images.githubusercontent.com/56380765/112929611-fb9a6200-9142-11eb-9419-211ffe2116a0.png)
 # Langkah 7
 membuat halaman ke 2 yang akan terhubung dengan halaman 1 dengan cara menggunakan hyperlink
 ```
@@ -95,6 +95,3 @@ membuat halaman ke 2 yang akan terhubung dengan halaman 1 dengan cara menggunaka
 </html>
 ```
 ![7](https://user-images.githubusercontent.com/56380765/112844851-61003b80-90ce-11eb-9fd2-42aaba89eaf4.png)
-
-
-    
